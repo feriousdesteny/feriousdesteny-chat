@@ -47,3 +47,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+@font-face {
+  font-family: myFirstFont;
+  src: url(KOMIKAX_.ttf);
+}
+
+body {
+  font-family: myFirstFont;
+}
